@@ -16,3 +16,8 @@ console.log("hi github")
 
 //==================================================
 
+// 8. git add . 
+
+// 9. git commit -m "changed"
+
+// 10. git push origin master
