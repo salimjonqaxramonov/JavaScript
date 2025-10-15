@@ -47,6 +47,8 @@
 
 // js nima - saytning tili 
 
+// interpreter - togridan togri brauther bilan aloqa bor
+
 // single Theard nima - 1ta ishga etbor berishi 
 
 // veribles nima - ozgaruvchi
