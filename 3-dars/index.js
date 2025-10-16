@@ -151,12 +151,12 @@
 
 // console.log ( (one_age+two_age+three_age+four_age+five_age) / 5);
 
-let year = prompt("O'zingizni yilizni kiriting")
+// let year = prompt("O'zingizni yilizni kiriting")
 
-let one_age = 2025-year
+// let one_age = 2025-year
 
-let year2 = prompt("dostingizni yilini kiriting")
+// let year2 = prompt("dostingizni yilini kiriting")
 
-let two_age = 2025-year2
+// let two_age = 2025-year2
 
-console.log ((one_age+two_age) / 2);
+// console.log ((one_age+two_age) / 2);
