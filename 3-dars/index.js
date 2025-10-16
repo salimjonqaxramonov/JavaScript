@@ -128,25 +128,35 @@
 
 // console.log(2025-yil)
 
+// let year = prompt("O'zingizni yilizni kiriting")
+
+// let one_age = 2025-year
+
+
+// let year2 = prompt("otangizni yilini kiriting")
+
+// let two_age = 2025-year2
+
+// let year3 = prompt("onangizni yilini kiriting")
+
+// let three_age = 2025-year3
+
+// let year4 = prompt("singlingizni yilini kiriting")
+
+// let four_age = 2025-year4
+
+// let year5 = prompt("ukangizni yilini kiriting")
+
+// let five_age = 2025-year5
+
+// console.log ( (one_age+two_age+three_age+four_age+five_age) / 5);
+
 let year = prompt("O'zingizni yilizni kiriting")
 
 let one_age = 2025-year
 
-
-let year2 = prompt("otangizni yilini kiriting")
+let year2 = prompt("dostingizni yilini kiriting")
 
 let two_age = 2025-year2
 
-let year3 = prompt("onangizni yilini kiriting")
-
-let three_age = 2025-year3
-
-let year4 = prompt("singlingizni yilini kiriting")
-
-let four_age = 2025-year4
-
-let year5 = prompt("ukangizni yilini kiriting")
-
-let five_age = 2025-year5
-
-console.log ( (one_age+two_age+three_age+four_age+five_age) / 5);
+console.log ((one_age+two_age) / 2);
