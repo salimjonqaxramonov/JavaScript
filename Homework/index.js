@@ -74,12 +74,11 @@ console.log(5**4);
 
 console.log(6**3);
 
-console.log("5" == 5);
+console.log("4" == 5);
 
 console.log("true" === true);
 
 console.log(undefined === null);
-
 
 console.log(7 > 4);
 
@@ -96,5 +95,4 @@ console.log(null || false || " ");
 console.log(0 || false || "0" , "javob"); 
 
 console.log("null" || "NaN" || "0");
-
 
