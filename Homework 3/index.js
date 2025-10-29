@@ -14,9 +14,8 @@ if (browser === "Edge") {
 }
 
 
-let message = prompt("habar kiriting");
+let login = prompt("habar kiriting");
 
-message =
   login == "Employee"
     ? console.log("Hello")
     : login == "Director"
