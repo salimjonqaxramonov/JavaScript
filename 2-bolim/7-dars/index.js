@@ -2,7 +2,7 @@ let data = [
     { id: 1, ism: "Otabek", familiya: "Valiyev", yosh: 14 },
     { id: 2, ism: "Orifjon", familiya: "Abdujabborov", yosh: 15 },
     { id: 3, ism: "Asadbek", familiya: "Atamirzayev", yosh: 16 },
-    { id: 4, ism: "Salimjon", familiya: "Qahramonov", yosh: 16 },
+    { id: 4, ism: "Salimjon", familiya: "Qahramonov", yosh: 17 },
   ];
 
   
@@ -10,7 +10,7 @@ let data = [
     data.push({id: data.length + 1, ism, familiya, yosh})
   }
 
-  creatAction( "Ali", "Aliyev", 17)
+  creatAction( "Ali", "Aliyev", 19)
 
   creatAction( "G'ani", "Hasanov", 18)
 
@@ -18,11 +18,11 @@ let data = [
 
   //Read
 
-  let readAction = (prop)=>{
-   data = data.filter((obj)=> obj.familiya.endsWith(prop) )
-  }
+  // let readAction = (prop)=>{
+  //  data = data.filter((obj)=> obj.familiya.endsWith(prop) )
+  // }
   
-  // readAction("ev")
+  // readAction("ov")
 
 
   // ===================================
